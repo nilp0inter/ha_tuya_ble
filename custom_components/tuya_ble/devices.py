@@ -284,6 +284,7 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
             **dict.fromkeys(
                 [
                     "mknd4lci",
+                    "6jcvqwh0",
                     "riecov42"
                 ],  # device product_ids
                 TuyaBLEProductInfo(
